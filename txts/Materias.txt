@@ -1,0 +1,5 @@
+0°matematicas°3°0°Electronica y Computacion#
+2°Fisica°10°0°Ciencias Basicas#
+3°Probabilidad°10°1°Ciencias Basicas#
+
+4°Quimica°30° °Ciencias Basicas#
